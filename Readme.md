@@ -11,8 +11,6 @@ Application has been written using the following:
 
 Java version required: 17
 
-Time Taken: ~6h
-
 Running the Application test
 --
 > mvn test
